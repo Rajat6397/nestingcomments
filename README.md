@@ -22,9 +22,8 @@ nested-comments-system/
 Getting Started
 Clone the repository or download the source code:
 
-bash
-Copy code
-git clone https://github.com/your-username/nested-comments-system.git
+
+
 Open the project:
 
 Open the index.html file in your web browser to see the nested comments system in action.
