@@ -48,17 +48,9 @@ replyComment(): Adds an input box for replying to a comment.
 editComment(): Allows the user to edit a comment.
 saveEdit(): Saves the edited comment.
 deleteComment(): Deletes a comment and its replies.
-Example
-Here's a sample UI with nested comments:
 
-less
-Copy code
-Nested Comments
----------------------------
-User 1: This is a main comment.
-    └─ User 2: This is a reply to the main comment.
-        └─ User 3: This is a nested reply.
-Future Improvements
+
+
 Persist Comments: Store comments using localStorage or a backend database.
 Enhanced Styling: Improve the user interface and experience with better styling.
 Validation: Add input validation for empty comments.
